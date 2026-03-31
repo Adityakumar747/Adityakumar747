@@ -24,12 +24,13 @@
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Currently Learning
 
 <p>
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Design-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud%20Architecture-4285F4?style=for-the-badge"/>
 </p>
 
 ---
@@ -82,7 +83,7 @@
 - Implemented appointment scheduling and service management  
 - Designed responsive UI using React  
 - Developed REST APIs for booking and user data  
-- Integrated MySQL database for efficient data handling  
+- Integrated MySQL database  
 
 **Tech Stack:** React.js, Node.js, Express.js, MySQL  
 
@@ -91,32 +92,36 @@
 ### 💬 MelonChat – Real-Time Chat Platform  
 🔗 GitHub: https://github.com/Adityakumar747/YOUR_REPO  
 
-- Built a real-time chat and community platform  
-- Implemented authentication and secure session handling  
+- Built a real-time chat platform with community discussions  
+- Implemented secure authentication  
 - Integrated Stream API for real-time messaging  
-- Designed modern responsive UI using Tailwind CSS  
+- Designed responsive UI  
 
 **Tech Stack:** Next.js, Stream API  
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Achievements
 
-- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
-- Deloitte Cyber Job Simulation – Forage  
-- Smart India Hackathon 2024 Internal Round Participant  
+| Badge | Certification | Issuer | Date |
+|------|-------------|--------|------|
+| ☁️ | Oracle Cloud Infrastructure AI Foundations Associate | Oracle | 2025 |
+| 💼 | Deloitte Cyber Job Simulation | Forage | 2025 |
+| 🏆 | Smart India Hackathon (Internal Round) | — | 2024 |
 
 ---
 
 ## 🎓 Education
 
-- 🎓 B.Tech CSE – Amity University Jharkhand (2023–2027)  
-- 📘 Class XII – Gossner College (2023)  
-- 📗 Class X – St. Columbus School (2021)  
+| Degree | Institution | Year |
+|--------|------------|------|
+| 🎓 B.Tech CSE | Amity University Jharkhand | 2027 |
+| 📘 12th | Gossner College | 2023 |
+| 📗 10th | St. Columbus School | 2021 |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Adityakumar747&show_icons=true&theme=tokyonight" height="170"/>
@@ -130,4 +135,4 @@
 📧 adityakumar746302@gmail.com  
 📍 India  
 
-💡 Open to learning, collaboration, and building real-world projects
+💡 Open to collaboration, learning, and building impactful projects
