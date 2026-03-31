@@ -85,7 +85,7 @@
 - Implemented appointment scheduling and service management  
 - Designed responsive UI using React  
 - Developed REST APIs for booking and user data  
-- Integrated MySQL database for efficient data handling  
+- Integrated MongoDB database for efficient data handling  
 - Improved booking workflow efficiency using structured backend APIs  
 
 **Tech Stack:** Next.js, Node.js, Express.js, MongoDB 
