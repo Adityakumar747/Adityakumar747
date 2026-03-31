@@ -18,7 +18,6 @@
 🎓 B.Tech Computer Science student at Amity University Jharkhand (2023–2027)  
 💡 Passionate about building scalable software applications and AI-powered systems  
 ⚡ Strong foundation in **Data Structures, DBMS, OOP & REST APIs**  
-
 ☁️ Certified in **Oracle Cloud Infrastructure (OCI)**  
 🚀 Exploring **Cloud Computing, Backend Systems, and Scalable Architectures**
 
