@@ -80,7 +80,7 @@
 ### 💇‍♂️ Full Stack Salon Booking Website  
 🔗 GitHub: https://github.com/Adityakumar747/YOUR_SALON_REPO  
 
-🌐 Live Demo: https://YOUR-SALON-LIVE-LINK  
+🌐 Live Demo: https://salon-booking-fullstack-qm17.vercel.app/
 
 - Built a complete salon booking platform with secure authentication  
 - Implemented appointment scheduling and service management  
