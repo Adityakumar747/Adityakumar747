@@ -78,27 +78,33 @@
 ## 📂 Featured Projects
 
 ### 💇‍♂️ Full Stack Salon Booking Website  
-🔗 GitHub: https://github.com/Adityakumar747/YOUR_REPO  
+🔗 GitHub: https://github.com/Adityakumar747/YOUR_SALON_REPO  
 
-- Built a complete salon booking platform with authentication  
+🌐 Live Demo: https://YOUR-SALON-LIVE-LINK  
+
+- Built a complete salon booking platform with secure authentication  
 - Implemented appointment scheduling and service management  
 - Designed responsive UI using React  
 - Developed REST APIs for booking and user data  
-- Integrated MySQL database  
+- Integrated MySQL database for efficient data handling  
+- Improved booking workflow efficiency using structured backend APIs  
 
 **Tech Stack:** React.js, Node.js, Express.js, MySQL  
 
 ---
 
 ### 💬 MelonChat – Real-Time Chat Platform  
-🔗 GitHub: https://github.com/Adityakumar747/YOUR_REPO  
+🔗 GitHub: https://github.com/Adityakumar747/YOUR_MELONCHAT_REPO  
 
-- Built a real-time chat platform with community discussions  
-- Implemented secure authentication  
+🌐 Live Demo: https://melonchat-8hiimchl3-adityakumar747s-projects.vercel.app/
+
+- Built a real-time chat platform with topic-based communities  
+- Implemented secure authentication using Clerk  
 - Integrated Stream API for real-time messaging  
-- Designed responsive UI  
+- Designed modern responsive UI using Tailwind CSS  
+- Developed scalable frontend and API structure  
 
-**Tech Stack:** Next.js, Stream API  
+**Tech Stack:** Next.js, Clerk, Stream API  
 
 ---
 
