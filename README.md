@@ -136,9 +136,25 @@
 
 ---
 
-## 🤝 Let's Connect
+---
 
-📧 adityakumar746302@gmail.com  
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Adityakumar747&style=for-the-badge&color=blue" />
+</p>
+
+---
+
+## 🤝 Availability
+
+### 🚀 Open to Opportunities
+
+- 💻 **Software Development**
+- ☁️ **Cloud / Backend Development**
+- 🤖 **AI-based Projects**
+
 📍 India  
+📧 adityakumar746302@gmail.com  
 
-💡 Open to collaboration, learning, and building impactful projects
+💡 Open to collaboration, real-world projects, and learning opportunities
