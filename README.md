@@ -106,9 +106,15 @@
 | Badge | Certification | Issuer | Date |
 |------|-------------|--------|------|
 | ☁️ | Oracle Cloud Infrastructure AI Foundations Associate | Oracle | 2025 |
+| ☁️ | Microsoft Azure AI Essentials: Workloads & Machine Learning | Microsoft | 2026 |
+| 🤖 | 5-Day AI Agents Intensive Course | Google × Kaggle | 2025 |
+| 🤖 | Claude 101 | Anthropic | 2025 |
+| 🤖 | AI Fluency: Framework & Foundations | Anthropic | 2025 |
+| ⚛️ | ReactJS – Complete Course for Beginners | Udemy | 2026 |
+| 🟨 | JavaScript Fundamentals Course | Udemy | 2026 |
 | 💼 | Deloitte Cyber Job Simulation | Forage | 2025 |
 | 🏆 | Smart India Hackathon (Internal Round) | — | 2024 |
-
+| 🎯 | Innovate-A-Thon 3.0 Participation | BIT Mesra | 2025 |
 ---
 
 ## 🎓 Education
