@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">💻 Full Stack Developer | 🤖 AI Enthusiast | ⚙️ Backend Focused</h3>
+<h3 align="center">💻 Software Developer | ☁️ Cloud & Full Stack Engineer | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;React+%2B+Node+Developer;AI+Projects+Builder;Open+to+Internships" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Engineer;Cloud+Enthusiast;Backend+Focused+Developer;AI+Projects+Builder" />
 </p>
 
 <p align="center">
@@ -15,12 +15,22 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech CSE student at Amity University Jharkhand (2023–2027)  
-💡 Passionate about building scalable full-stack applications and AI-powered systems  
+🎓 B.Tech Computer Science student at Amity University Jharkhand (2023–2027)  
+💡 Passionate about building scalable software applications and AI-powered systems  
 ⚡ Strong foundation in **Data Structures, DBMS, OOP & REST APIs**  
-💼 Experience as a **Full Stack Developer Intern at Enegix Web Solutions**  
 
-🚀 **Currently seeking Internship Opportunities in Software Development / Full Stack / Backend**
+☁️ Certified in **Oracle Cloud Infrastructure (OCI)**  
+🚀 Exploring **Cloud Computing, Backend Systems, and Scalable Architectures**
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -68,45 +78,41 @@
 ### 💇‍♂️ Full Stack Salon Booking Website  
 🔗 GitHub: https://github.com/Adityakumar747/YOUR_REPO  
 
-- Built a complete salon booking platform with user authentication  
+- Built a complete salon booking platform with authentication  
 - Implemented appointment scheduling and service management  
-- Designed responsive UI using React and modern CSS  
-- Developed REST APIs for booking, user data, and admin control  
+- Designed responsive UI using React  
+- Developed REST APIs for booking and user data  
 - Integrated MySQL database for efficient data handling  
 
 **Tech Stack:** React.js, Node.js, Express.js, MySQL  
 
 ---
 
-### 💬 MelonChat – Real-Time Chat App  
+### 💬 MelonChat – Real-Time Chat Platform  
 🔗 GitHub: https://github.com/Adityakumar747/YOUR_REPO  
 
-- Built a real-time chat platform with topic-based communities  
-- Implemented authentication using Clerk  
-- Integrated Stream Chat API for live messaging  
-- Developed responsive UI with Tailwind CSS  
+- Built a real-time chat and community platform  
+- Implemented authentication and secure session handling  
+- Integrated Stream API for real-time messaging  
+- Designed modern responsive UI using Tailwind CSS  
 
-**Tech Stack:** Next.js, Clerk, Stream API  
-
----
-
-## 💼 Experience
-
-### 👨‍💻 Full Stack Developer Intern – Enegix Web Solutions (May 2025)
-
-- Developed scalable web apps using React, Express, MySQL  
-- Built REST APIs for authentication and dynamic data  
-- Optimized database queries for performance  
-- Implemented secure login & validation systems  
-- Collaborated using Git & GitHub  
+**Tech Stack:** Next.js, Stream API  
 
 ---
 
 ## 📜 Certifications
 
-- Oracle Cloud Infrastructure AI Foundations Associate (2025)  
-- Deloitte Cyber Job Simulation – Forage (2025)  
-- Smart India Hackathon 2024 Participant  
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
+- Deloitte Cyber Job Simulation – Forage  
+- Smart India Hackathon 2024 Internal Round Participant  
+
+---
+
+## 🎓 Education
+
+- 🎓 B.Tech CSE – Amity University Jharkhand (2023–2027)  
+- 📘 Class XII – Gossner College (2023)  
+- 📗 Class X – St. Columbus School (2021)  
 
 ---
 
@@ -124,4 +130,4 @@
 📧 adityakumar746302@gmail.com  
 📍 India  
 
-🚀 **Open to Internships & Real-World Projects**
+💡 Open to learning, collaboration, and building real-world projects
