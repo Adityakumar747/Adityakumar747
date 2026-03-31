@@ -89,7 +89,7 @@
 - Integrated MySQL database for efficient data handling  
 - Improved booking workflow efficiency using structured backend APIs  
 
-**Tech Stack:** React.js, Node.js, Express.js, MySQL  
+**Tech Stack:** Next.js, Node.js, Express.js, MongoDB 
 
 ---
 
