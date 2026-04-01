@@ -8,7 +8,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/aditya-kumar-08780b325"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Kumar-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:adityakumar746302@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/Adityakumar747"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+
 </p>
 
 ---
